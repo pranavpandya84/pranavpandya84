@@ -1,6 +1,6 @@
 ### Hi there, I'm Pranav 👋 👨‍💻 
 
-<img src="www/profile_banner.PNG" alt="profile banner">
+<img src="https://raw.githubusercontent.com/pranavpandya84/pranavpandya84/master/www/profile_banner.PNG" alt="profile banner">
 
 
 
