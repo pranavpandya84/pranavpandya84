@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 __Social__
 
 [![Twitter](https://img.shields.io/twitter/url?color=%231DA1F2&label=follow&logo=twitter&logoColor=%231DA1F2&style=flat-square&url=https://twitter.com/pranavpandya84)](https://twitter.com/pranavpandya84)
-[![LinkedIn](https://img.shields.io/LinkedIn/url?color=%230072b1&label=connect&logo=linkedin&logoColor=%230072b1&style=flat-square&url=http://linkedin.com/in/pranav84)](http://linkedin.com/in/pranav84)
+[![LinkedIn](https://img.shields.io/twitter/url?color=%230072b1&label=connect&logo=linkedin&logoColor=%230072b1&style=flat-square&url=http://linkedin.com/in/pranav84)](http://linkedin.com/in/pranav84)
 
 __Tech__
 
