@@ -13,7 +13,7 @@
 [![R](https://img.shields.io/badge/-programming-black?style=flat-square&logo=r&link=https://github.com/pranavpandya84/)](https://github.com/pranavpandya84/)
 [![ML](https://img.shields.io/badge/-Machine%20Learning-black?style=flat-square&logo=Rstudio&link=https://pranavpandya84.github.io/masters_thesis_on_global_terrorism/)](https://pranavpandya84.github.io/masters_thesis_on_global_terrorism/)
 [![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=Amazon%20AWS&link=https://github.com/pranavpandya84/)](https://github.com/pranavpandya84/)
-![Postgres](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql&link=https://github.com/pranavpandya84/)
+[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql&link=https://github.com/pranavpandya84/)](https://github.com/pranavpandya84/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/pranavpandya84/)](https://github.com/pranavpandya84/)
 [![CSS](https://img.shields.io/badge/-CSS-black?style=flat-square&logo=css3&link=https://github.com/pranavpandya84/)](https://github.com/pranavpandya84/)
 
