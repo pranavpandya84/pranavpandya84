@@ -6,8 +6,6 @@
 
 I'm a Data scientist who is passionate about passionate about open source framework, machine learning, software development and interactive data visualization. My professional experience includes developing data-driven products, and using a variety of supervised and unsupervised techniques in machine learning to address business needs. Visual storytelling through R Shiny apps is one of my specialties. In free time, I also participate in data science challenges to enhance my skills and knowledge on diverse real-world datasets. A portfolio of my work on Kaggle can be viewed <a href="https://www.kaggle.com/pranav84/">here</a>.  
 
-Some of the technologies/ frameworks I enjoy working with are listed below:
-
 [![R](https://img.shields.io/badge/-programming-black?style=flat-square&logo=r&link=https://github.com/pranavpandya84/)](https://github.com/pranavpandya84/)
 [![ML](https://img.shields.io/badge/-Machine%20Learning-black?style=flat-square&logo=Rstudio&link=https://pranavpandya84.github.io/masters_thesis_on_global_terrorism/)](https://pranavpandya84.github.io/masters_thesis_on_global_terrorism/)
 [![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=Amazon%20AWS&link=https://github.com/pranavpandya84/)](https://github.com/pranavpandya84/)
