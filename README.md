@@ -12,4 +12,5 @@ I'm a Data scientist who is passionate about passionate about open source framew
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql&link=https://github.com/pranavpandya84/)](https://github.com/pranavpandya84/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/pranavpandya84/)](https://github.com/pranavpandya84/)
 [![CSS](https://img.shields.io/badge/-CSS-black?style=flat-square&logo=css3&link=https://github.com/pranavpandya84/)](https://github.com/pranavpandya84/)
+[![Github Gists](https://img.shields.io/github/followers/pranavpandya84?color=0088ff&label=Gists&logoColor=blue&style=social)](https://gist.github.com/pranavpandya84)
 
