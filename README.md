@@ -13,4 +13,4 @@ I'm a Data scientist who is passionate about passionate about open source framew
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/pranavpandya84/)](https://github.com/pranavpandya84/)
 [![CSS](https://img.shields.io/badge/-CSS-black?style=flat-square&logo=css3&link=https://github.com/pranavpandya84/)](https://github.com/pranavpandya84/)
 [![Github Gists](https://img.shields.io/github/followers/pranavpandya84?color=0088ff&label=Gists&logoColor=blue&style=social)](https://gist.github.com/pranavpandya84)
-
+[![Datacamp](https://img.shields.io/badge/->400,000%20xp-test?color=0088ff&label=Datacamp&logoColor=blue&style=social&logo=datacamp)](https://www.datacamp.com/profile/pranavpandya84)
